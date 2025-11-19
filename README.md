@@ -1,2 +1,2 @@
-# Satellite-Settlement-Classifier
-Classifying settlement types from satellite imagery
+# Satellite Settlement Classifier
+This repository contains the notebooks and supporting files for a collection of machine learning models designed to classify settlement types from satellite imagery. The project evaluates a range of approaches, including supervised shallow models, supervised deep learning architectures, and unsupervised methods. Local cached datasets are excluded due to GitHub storage constraints, but they can be regenerated or re-downloaded by running the provided notebooks. For an in-depth discussion of the methodology, model comparisons, and empirical findings, please consult the research paper associated with this project.
